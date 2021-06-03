@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons humbly offered on behalf of the inhabitants at large of the parish of St. George, Hanover-Square, against a bill for the better relief and employment of the poor of the said parish</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09852</idno><idno type="EEBO-CITATION">62369627</idno>
+  <idno type="VID">188107</idno>
+  <idno type="EEBO-PROQUEST">2240883781</idno>
+  
+            <idno type="STC">Wing R546A</idno>
+            <idno type="STC">ESTC T65873</idno>
+            <idno type="OCLC">62369627</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09852)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188107)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2855:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons humbly offered on behalf of the inhabitants at large of the parish of St. George, Hanover-Square, against a bill for the better relief and employment of the poor of the said parish</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>3 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">St. George's Church (Westminster, London, England) --  Early works to 1800.</term>
+               <term type="topical_term">Poor --  Employment --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  William and Mary, 1689-1702 --  Sources.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1689-1702 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:188107:1"/>
+            <head>
+               <hi>REASONS Humbly Offered On Behalf of the Inhabitants at large of the Parish of</hi> St. George, Hanover-Square, <hi>against</hi> A Bill for the better Relief and Employ<g ref="char:EOLhyphen"/>ment of the Poor of the said Pa<g ref="char:EOLhyphen"/>rish.</head>
+            <p>THIS Bill is declared to be founded on the Necessity, the Use, and the Reason, why such new Officers should be con<g ref="char:EOLhyphen"/>stituted, as in the Bill is mentioned, instead of such as the Laws, Time immemorial, have appointed for the same Purposes.</p>
+            <p>That Necessity is the Lowness of the Rates, which are therefore more difficult or more expensive to get in than if they were higher. This refers principally to the Highway Rates.</p>
+            <p>In Answer to which we say, That the Highway Rates are more easily recovered in this Parish than in most others, and at less Hazard and Expence, as they are specially directed to the Means, not only by the 14th of his present Majesty, but by former Acts, and the Method for Recovery, thereby given, is plain, easy, and without Expence; and if this Rate is thought too small for the Surveyors to collect, we have no Objection to add the Scavengers Rate thereto, to be received at the same time by the same Officers; but apprehend there can be no Reason for increasing the Parish Expence, by constituting a salaried Officer, hitherto totally unknown to our Laws: And as to annexing the Poor's to other Rates, we apprehend a great Inconvenience there-from, as hereafter remarked.</p>
+            <pb n="2" facs="tcp:188107:2"/>
+            <p>The Use proposed by these Officers does not appear either necessary or beneficial, not only as no Inconvenience, Hazard, or Loss have hitherto happened from employing such as the Laws in Force direct, and put the Parish to no Expence, or complain of the Trouble, but also, as they are more likely to answer the Ends of their respective Duties, than these new Officers intended to be introduced by this Bill in their stead. Why therefore should the Course of Law be altered at an additional Expence to the Parish, and without any Fruit or Be<g ref="char:EOLhyphen"/>nefit?</p>
+            <p>The Reason then of constituting new Officers by special Appoint<g ref="char:EOLhyphen"/>ment by the Vestry, seems only to bring a fix'd Charge upon the Pa<g ref="char:EOLhyphen"/>rish, and intimates as if the Parish Rates were too low, which would be thought a Benefit in any other Place: And it is observed as a gene<g ref="char:EOLhyphen"/>ral Rule, That the Multiplication of Laws, while they remedy one Inconvenience, produce many Mischiefs which the Eyes of Projectors do not immediately perceive, but are generally too plain in the Con<g ref="char:EOLhyphen"/>sequence; and in this Case we apprehend will singularly appear, as it is not understood how the other Acts and Officers, as supposed in the Bill, can subsist without Confusion if this Act takes Place.</p>
+            <p>The Inconvenience of receiving all the Rates together, though in themseves very moderate in respect to most other Parishes, may, not<g ref="char:EOLhyphen"/>withstanding, be very significant to many, especially the lower Sort of the Inhabitants, who can better pay their Taxes in small Portions, and at different Times, than in larger Sums, and at one Time.</p>
+            <p>And it is further to be observed, That although the Rates in so large and rich a Parish are moderate as to Individuals, the Sum of all together is too considerable to be trusted in any one Man's Hands under personal Credit or Security, in which those who take such Se<g ref="char:EOLhyphen"/>curity are oftentimes mistaken, and at the best may, instead of being an effectual Security for the Public Money, only lead the Parish into an expensive Course of Law, and that not to be commenced until a great Length of Time had made it appear what Money any Col<g ref="char:EOLhyphen"/>lector may happen to go off with, and then the Security can only be charged with what every Individual proves he has paid him, nor can the Parish, while this is transacting, raise new Rates, nor will there be any body to take Care of the Poor, besides the Expence and Con<g ref="char:EOLhyphen"/>fusion every possible Accident of this Kind might create.</p>
+            <p>And as it is evident the Wisdom of our present Laws have not sub<g ref="char:EOLhyphen"/>jected the Parish to the same Risque, as the Justices in Petty Sessions
+<pb n="3" facs="tcp:188107:2"/>may chuse the Parish Officers, as the Law directs, and as no Accident of the like Kind can possibly happen under prudent Management, it seems a very extraordinary Attempt in any Set of Men, either through Wantonness, or in Defect of being better informed, to bring at once an unnecessary Risque on the Parish, and at the same time to make the Parish pay annually a Salary for a fair Chance of some time paying their Rates twice over.</p>
+            <p>That though there are amongst the Vestry-Men in this Parish seve<g ref="char:EOLhyphen"/>ral Persons of great Quality, Honour, and Fortune, who would be a Security to the Parish that nothing improper should be done by the Vestry, if they themselves attended the Meetings and Duties of the Vestry; but every body knows, from their great Quality, and other Avocations, they scarce ever attend the public Business of the Parish, and by that Means the whole Parish Affairs are conducted by a few of much inferior Fortunes and Stations; which is a Reason why the legal Rules and Forms of the Parish ought not to be altered, merely to throw an Increase of continual Power into the Hands of those few who act in the Vestry.</p>
+            <p>In Truth these are not the only Objections we have to make to this very new and extraordinary Bill, though we conceive them amply sufficient; but shall only take notice of one more, which is a Clause for the taking Care of all the poor Children that may happen to stray into this Parish, which by the Way is little less than desiring a Law to subject this opulent Parish to the Maintenance and Support of all the Vagabonds in this Kingdom.</p>
+         </div>
+      </body>
+      <back>
+         <div type="docket_title">
+            <pb facs="tcp:188107:3"/>
+            <p>
+               <hi>REASONS Against the BILL now depending,</hi> For the better Relief and Employment of the Poor of the Parish of <hi>St. George, Hanover-Square,</hi> &amp;c.</p>
+            <pb facs="tcp:188107:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
